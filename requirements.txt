@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+face_recognition
+opencv-python-headless
+numpy
+Pillow
+dlib
+cmake
